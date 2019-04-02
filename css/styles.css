@@ -1,0 +1,445 @@
+
+.coverme{
+	background-color: #f2f2f2;
+}
+
+
+.navbaR{
+	max-width: 1100px;
+	margin: auto;
+	margin-top: 100px;
+}
+
+
+.menus{
+	padding: 25px;
+	background-color: yellow;
+	box-shadow: 10px 10px 5px; grey;
+	float: left;
+	margin: 1.5px;
+	width: 120px;
+	align-text: center;
+}
+
+
+.a{
+	text-decoration: none;
+	font-size: 20px;
+	font-family: verdana;
+	font-weight: bold;
+}
+
+
+.menus:hover{
+	background: green;
+	transition: 1s;
+	-webkit-transition:1s;
+	-moz-transition:1s;
+	transform: rotate(360deg);
+	webkit-transform:rotate(360deg);
+}
+
+
+.a:hover{
+	color: white;
+	-webkit-transition:1s;
+	-moz-transition:1s;
+
+
+}
+
+.logo{
+	width:40px;
+	height:20px; 
+}
+.digital{
+	margin-top:100px;
+}
+
+.myfooter{
+	background-color: 716b6b;
+}
+
+.myfooter{
+	padding-top: 20px;
+}
+
+.myindex{
+	background-color: indigo;
+}
+.navbar{
+	color: black;
+}
+
+.form-me{
+	background-color: #373a6070;
+	margin-top: 40px;
+	padding-top: 30px;
+
+}
+
+.form{
+	padding-top: 20px;
+	border: 2px dashed #49656896;
+	height: 550px;
+}
+
+/*loging state here*/
+.img-background8{
+	height: 100vh;
+	background-image: url("../img/background8.jpg");
+	background-position: center;
+	background-size: cover;
+	font-family: sans-serif;
+}
+.body{
+	margin: 0;
+	padding: 0;
+
+}
+.box{
+	position: absolute;
+	top: 50px;
+	right: 50px;
+	transform: translate(-50,-50);
+	width: 500px;
+	padding: 40px;
+	background: rgba(0,0,0,8);
+	box-sizing: border-box;
+	box-shadow: 0 15px 25px rgba(0,0,0,5);
+	border-radius: 10px;
+}
+
+.box h2
+{
+	margin: 0,0,0,30px;
+	padding: 0;
+	color: #fff;
+	text-align: center;
+}
+.box .inputbox
+{
+
+	position: relative;
+}
+.box.inputBox input
+{
+	width: 100;
+	padding: 10px 0;
+	font-size: 16px;
+	color: #fff;
+	margin-bottom: 30px;
+
+}
+
+
+/*book libray state here */
+
+.img-background8 {
+	height: 100vh;
+	background-image: url("../img/background8.jpg");
+	background-position: center;
+	font-family: sans-serif;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-top: 30px;
+	animation: rain.3s linear infinite;
+}
+
+
+
+/* form light state here */
+.body form1{
+	margin: 0;
+	padding: 0;
+	background: 000;
+}
+
+/*bookstor state here*/
+.black{
+	border: 2px dashed #49656896;
+	height: 470px;
+	padding-top: 20px;
+	background-color: #b87ca340;
+}
+
+.oro{
+	border: 2px dashed #49656896;
+	height: 470px;
+	padding-top: 20px;
+	background-color: #94c4c7a8;
+}
+
+.bello{
+	border: 2px dashed #49656896;
+	height: 450px;
+	padding-top: 20px;
+	background-color:#1ab41e52;
+	text-align: center;
+}
+.calcio{
+
+	height: 200px;
+}
+
+
+/*book details state from here*/
+.container-box{
+	height: 
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	font-family:' luckiest guy',cursive;
+
+}
+
+.main-content{
+	background-color:#897f68d4;
+	min-height: 100vh;
+}
+
+
+/*signup3 state from here*/
+
+.img-background8{
+	height: 100vh;
+	background-image: url("../img/background8.jpg");
+	background-position: center;
+	font-family: sans-serif;
+	background-repeat: no-repeat;
+	width: 1100px;
+	padding: 30px;
+}
+
+.house1 {
+	margin: 0;
+	padding: 0;
+	background: url("sea1.jpg");
+
+}
+
+.img-sea1{
+	height: 100vh;
+	background-image: url("../image/sea1jpj");
+	background-position:center;
+	background-size: cover;
+	font-family: sans-serif;
+	width: 110px;
+	background-repeat: no-repeat; 
+}
+
+/*nav1 registration form state from here*/
+.my-sweet{
+	background-image: url("../img/nav1.jpg");
+	background-position: center;
+	background-size: cover;
+	height: 1100px;
+	background-attachment: fixed;
+	display: flex;
+	margin: auto;
+}
+
+.bad{
+	
+	margin-bottom: 50px;
+	position: absolute;
+	top: 90px;
+	transform: translate(-50,-50);
+	background: rgba#3f3737ad;
+	padding: 80px;
+	border-radius: 10px;
+	width: 1300px;
+	background-color:#453838ad;
+
+
+}
+.bad{
+	display: block;
+	color: #fff;
+	font-size: 20px;
+	margin-bottom: 8px;
+	cursor: pointer;
+	text-transform: capitalize;
+
+}
+.bad input{
+	font-size: 18px;
+	padding: 7px;
+	width: 100%;
+	border: 2px solid #fcf8e3;
+	display: block;
+	background:transparent;
+	border-radius: 5px;
+}
+
+
+.bad p{
+	color: #fff;
+	font-size:17px;
+}
+.bad p a{
+	color: #fff;
+	font-size:20px;
+	text-decoration:none;
+	text-transform: capitalize; 
+}
+
+
+
+
+/*my 4rent footer  state from here from here*/
+.footer{
+	background-color:#00ff43;
+}
+
+.footer ul > li{
+	list-style: none;
+	float: left;
+	padding-right: 60px;	
+}
+
+/*my saler dash board state from here from here*/
+
+
+.via{
+	border: 3px dashed #49656896;
+	height: 190px;
+}
+
+.napoli{
+	background-color:#97b2a4ad;
+}
+
+
+.terano{
+	padding: 0;
+	margin: 0;
+}
+.sea4{
+	height: 100vh;
+	background-image: url("../img/sea4.jpg");
+	background-position: center;
+	background-size: cover;
+	height: 900px;
+	background-position: center center;
+/*to be continuor nex time  */
+}
+
+
+
+/*my saler dash board end here*/
+
+
+/*my login state from here from here*/
+
+.container-sea2{
+	background-image: url("../img/sea2.jpg");
+	background-position: center;
+	background-size: cover;
+	height: 900px;
+	background-position: center center;
+	padding-top: 50px;
+}
+	
+
+.sea2-cover{
+	width: 500px;
+	height: 450px;
+	margin: 60 auto 0;
+	position: relative;
+	background: rgb(0,0,0,4);
+	text-align: center;
+	margin-top: 60px;
+	padding: 35;
+	border: 3px solid #fff;
+	-webkit-border-radius:70px 0 70px 0;
+	-moz-border-radius:70px 0 70px 0;
+	bordder-radius:70px 0 70px 0;
+	background-color: transparent;
+}
+
+.container-sea2 h2{
+	margin-bottom: 45px;
+	color: #fff;
+
+}
+
+.gus{
+	width: 80%;
+	height: 70px;
+	border-radius:15px 0 15 0;
+	border:1 px solid #fff;
+	margin-bottom: 15px;
+	background-color: transparent;
+	color: #fff;
+}
+.container-sea2 p{
+	color:#fff;
+	text-transform: uppercase; 
+	font-weight: bold;
+
+
+}
+
+.piano  p{
+	text-transform: uppercase;
+
+}
+
+.btn{
+	display: inline-block;
+	height: 50px;
+	width: 150px;
+	line-height: 40px;
+	overflow: hidden;
+	position: relative;
+	text-align: center;
+	background: tomato;
+	border-radius:25px;
+	color: #fff;
+	text-transform: uppercase;
+	margin-top: 25px;
+	color: #fff;
+	cursor: pointer;
+	text-decoration: none;
+}
+.btn-text{
+	display: block;
+	height: 100%;
+	position: relative;
+	top: 0;
+	-webkit-transition:top 0.6s;
+	-moz-trantiositon:top0.6s;
+	-ms-trasition:top 0.6s;
+	-0-transition:top 0.6s;
+	transition: top 0.6s;
+	widows: 100%;
+}
+
+.btn:hover.btn-text{
+	top: -100%;
+}
+
+.for-pass{
+	text-decoration: none;
+	display: block;
+	margin-top: 10px;
+	font-weight: bold;
+	font-size: 10px;
+}
+
+.container-fluidone{
+	margin-bottom:  90px;
+}
+
+
+/*my saller dash board end here*/
+
+
+
+
+	
+
+
+
+
